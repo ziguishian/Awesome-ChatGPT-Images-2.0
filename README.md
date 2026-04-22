@@ -1,7 +1,31 @@
 # 🌟 Awesome-ChatGPT-Images-2.0
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/你的用户名/Awesome-ChatGPT-Images-2.0)](https://github.com/你的用户名/Awesome-ChatGPT-Images-2.0/stargazers)
+
+<p align="center">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
+  </a>
+  <a href="https://github.com/ziguishian/Awesome-ChatGPT-Images-2.0/stargazers">
+    <img src="https://img.shields.io/github/stars/ziguishian/Awesome-ChatGPT-Images-2.0?style=social" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/ziguishian/Awesome-ChatGPT-Images-2.0/network/members">
+    <img src="https://img.shields.io/github/forks/ziguishian/Awesome-ChatGPT-Images-2.0?style=social" alt="GitHub forks">
+  </a>
+  <a href="https://github.com/ziguishian/Awesome-ChatGPT-Images-2.0/issues">
+    <img src="https://img.shields.io/github/issues/ziguishian/Awesome-ChatGPT-Images-2.0" alt="GitHub issues">
+  </a>
+  <a href="https://github.com/ziguishian/Awesome-ChatGPT-Images-2.0/commits/main">
+    <img src="https://img.shields.io/github/last-commit/ziguishian/Awesome-ChatGPT-Images-2.0" alt="Last commit">
+  </a>
+  <a href="https://github.com/ziguishian/Awesome-ChatGPT-Images-2.0/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/ziguishian/Awesome-ChatGPT-Images-2.0" alt="Contributors">
+  </a>
+  <a href="https://github.com/ziguishian/Awesome-ChatGPT-Images-2.0">
+    <img src="https://img.shields.io/github/repo-size/ziguishian/Awesome-ChatGPT-Images-2.0" alt="Repo size">
+  </a>
+</p>
+
+<img width="1933" height="814" alt="image" src="https://github.com/user-attachments/assets/53d0759a-4242-4d0a-95a7-c3031669dfa9" />
 
 > ⚠️ **声明**：本仓库内容收集自网络，仅用于分享 ChatGPT-Images-2.0 模型的提示词示例与创意参考，不涉及商业用途。  
 > Disclaimer: This repository collects content from the internet for reference purposes, showcasing ChatGPT-Images-2.0 prompts and creative examples.
@@ -12,9 +36,6 @@
 
 # 示例集锦
 ## 📸官网示例 / Image Examples
-
-<details>
-<summary>展开查看所有图片</summary>
 
 <table>
 <tr>
@@ -49,11 +70,23 @@
 </tr>
 <tr>
   <td><img width="200" src="https://github.com/user-attachments/assets/b563ad15-5b3e-4d23-91b3-4daa40b616ce" /></td>
-    <td><img width="200" alt="image" src="https://github.com/user-attachments/assets/1810605c-fb08-43f8-b1c9-c34703ed68d1" /></td>
-    <td><img width="200" alt="image" src="https://github.com/user-attachments/assets/a3eb2b01-d9ca-4a4b-98c4-ff952d9e9bc6" /></td>
-    <td><img width="200" alt="image" src="https://github.com/user-attachments/assets/76e6ce04-a4ac-4942-83f8-5924da8ff066" /></td>
+    <td><img width="200" src="https://github.com/user-attachments/assets/1810605c-fb08-43f8-b1c9-c34703ed68d1" /></td>
+    <td><img width="200" src="https://github.com/user-attachments/assets/a3eb2b01-d9ca-4a4b-98c4-ff952d9e9bc6" /></td>
+    <td><img width="200" src="https://github.com/user-attachments/assets/76e6ce04-a4ac-4942-83f8-5924da8ff066" /></td>
 
 </tr>
 </table>
 
+## Prompt 示例案例
+> 相较于之前的模型来说，ChatGPT-Images-2.0 的一大特点是，非常简单的提示词就可以产出很优秀的结果。
+
+
+> Compared to previous models, a major feature of ChatGPT Images 2.0 is that very simple prompt words can produce excellent results.
+
+<details>
+<summary>展开查看--</summary>
+```
+```
+
 </details>
+

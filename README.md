@@ -38,6 +38,22 @@
 > Curated collection of ChatGPT-Images-2.0 prompts and creative examples, designed to inspire creators and accelerate mastery of image generation techniques.
 
 # 示例集锦
+
+## 优秀集锦
+
+<img width="100%"  alt="ziguishian" src="https://github.com/user-attachments/assets/1c6e4dd0-8ef0-4340-a93d-4b0d3e3ae1d1" />
+<img  width="100%"  alt="ziguishian" src="https://github.com/user-attachments/assets/2e9f0584-b71d-40a1-b51b-9161326ad7f2" />
+<img width="100%"  alt="ziguishian" src="https://github.com/user-attachments/assets/ec5d0475-b85a-49d0-bed8-784daaffc457" />
+<img width="100%"  alt="ziguishian" src="https://github.com/user-attachments/assets/b5e530f9-0d7d-4a81-8c1a-53a7b78d8e5d" />
+<img width="100%"  alt="ziguishian" src="https://github.com/user-attachments/assets/975ef94d-89f9-4e52-8b9c-3e7c8f1ded77" />
+
+## 360 度图像
+> beautiful 360 equirectangular image of Hogwarts replica in Minecraft
+
+
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/f5698430-66d4-4ab9-8cdd-4a2baf0c0e84" />
+
+
 ## 📸官网示例 / Image Examples
 
 <table>
@@ -79,6 +95,11 @@
 
 </tr>
 </table>
+
+## 模型分数
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/ff61521d-6f2c-42a4-bac2-be5d03a26294" />
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/644aae9e-cbf5-4468-b968-17f565679763" />
+
 
 ## 网络来源示例
 > Tips：在新版GPT中，AI 可以先思考再设计，这是多模态的一大进步，你可以尝试将以下图片的内容给到GPT反推提示词，然后生成图像，实测可行。

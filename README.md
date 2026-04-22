@@ -797,11 +797,7 @@ each cell strictly aligned and neatly arranged, with an angle of approximately 4
 
 </details>
 
-## Star history
 
-<p align="center">
-  <a href="https://starchart.cc/ziguishian/Awesome-ChatGPT-Images-2.0">
-    <img src="https://starchart.cc/ziguishian/Awesome-ChatGPT-Images-2.0.svg" alt="Star History">
-  </a>
-</p>
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=ziguishian/Awesome-ChatGPT-Images-2.0&type=Date)](https://www.star-history.com/#ziguishian/Awesome-ChatGPT-Images-2.0&Date)

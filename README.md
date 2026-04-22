@@ -68,7 +68,7 @@
     <img width="100%" alt="image" src="https://github.com/user-attachments/assets/d02fbcb7-afb0-4684-bdea-e9b3e09b006d" />
   </td>
   <td>
-    <img width="100%" alt="image" src="https://github.com/user-attachments/assets/a3f64703-4cdc-4d80-b581-96214074445e" />
+    <img width="100%" alt="image" src="https://github.com/user-attachments/assets/5e1a9117-ee8e-428c-bcf6-c716c15997f7" />
   </td>
 </tr>
 </table>

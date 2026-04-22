@@ -6,10 +6,10 @@
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License">
   </a>
   <a href="https://github.com/ziguishian/Awesome-ChatGPT-Images-2.0/stargazers">
-    <img src="https://img.shields.io/github/stars/ziguishian/Awesome-ChatGPT-Images-2.0?style=social" alt="GitHub stars">
+    <img src="https://img.shields.io/github/stars/ziguishian/Awesome-ChatGPT-Images-2.0" alt="GitHub stars">
   </a>
   <a href="https://github.com/ziguishian/Awesome-ChatGPT-Images-2.0/network/members">
-    <img src="https://img.shields.io/github/forks/ziguishian/Awesome-ChatGPT-Images-2.0?style=social" alt="GitHub forks">
+    <img src="https://img.shields.io/github/forks/ziguishian/Awesome-ChatGPT-Images-2.0" alt="GitHub forks">
   </a>
   <a href="https://github.com/ziguishian/Awesome-ChatGPT-Images-2.0/issues">
     <img src="https://img.shields.io/github/issues/ziguishian/Awesome-ChatGPT-Images-2.0" alt="GitHub issues">
@@ -25,7 +25,10 @@
   </a>
 </p>
 
-<img width="1933" height="814" alt="image" src="https://github.com/user-attachments/assets/53d0759a-4242-4d0a-95a7-c3031669dfa9" />
+<p align="center">
+  <img width="100%" src="https://github.com/user-attachments/assets/53d0759a-4242-4d0a-95a7-c3031669dfa9" />
+</p>
+
 
 > ⚠️ **声明**：本仓库内容收集自网络，仅用于分享 ChatGPT-Images-2.0 模型的提示词示例与创意参考，不涉及商业用途。  
 > Disclaimer: This repository collects content from the internet for reference purposes, showcasing ChatGPT-Images-2.0 prompts and creative examples.
@@ -84,9 +87,19 @@
 > Compared to previous models, a major feature of ChatGPT Images 2.0 is that very simple prompt words can produce excellent results.
 
 <details>
-<summary>展开查看--</summary>
-```
-```
+<summary>展开查看--微缩模型</summary>
+
+```text
+3D chibi-style miniature concept store of {Brand Name}, creatively designed with an exterior inspired by the brand's most iconic product or packaging (such as a giant {brand's core product, e.g., chicken bucket/hamburger/donut/roast duck}). The store features two floors with large glass windows clearly showcasing the cozy and finely decorated interior: {brand's primary color}-themed decor, warm lighting, and busy staff dressed in outfits matching the brand. Adorable tiny figures stroll or sit along the street, surrounded by benches, street lamps, and potted plants, creating a charming urban scene. Rendered in a miniature cityscape style using Cinema 4D, with a blind-box toy aesthetic, rich in details and realism, and bathed in soft lighting that evokes a relaxing afternoon atmosphere. --ar 2:3
+</code>
+```  
+
+<table>
+<tr>
+  <td><img width="600" height="900" alt="image" src="https://github.com/user-attachments/assets/0a0688f6-a262-4760-b5a8-51065ef0ec39" /></td>
+</tr>
+</table>
+
 
 </details>
 
@@ -98,5 +111,4 @@
     <img src="https://starchart.cc/ziguishian/Awesome-ChatGPT-Images-2.0.svg" alt="Star History">
   </a>
 </p>
-
 

@@ -95,7 +95,9 @@
 
 <table>
 <tr>
-  <td><img width="100%" alt="image" src="https://github.com/user-attachments/assets/0a0688f6-a262-4760-b5a8-51065ef0ec39" /></td>
+  <td>
+    <img width="100%" alt="image" src="https://github.com/user-attachments/assets/0a0688f6-a262-4760-b5a8-51065ef0ec39" />
+  </td>
 </tr>
 </table>
 
@@ -145,10 +147,10 @@
 <table>
 <tr>
     <td>
-    <img width="50%" alt="image" src="https://github.com/user-attachments/assets/9189051c-a307-4468-9108-7974dd28e4cd" />
+    <img width="100%" alt="image" src="https://github.com/user-attachments/assets/9189051c-a307-4468-9108-7974dd28e4cd" />
   </td>
   <td>
-    <img width="50%" alt="image" src="https://github.com/user-attachments/assets/a87d4ed1-ea28-4ca9-a25d-bb404f61dbce" />
+    <img width="100%" alt="image" src="https://github.com/user-attachments/assets/a87d4ed1-ea28-4ca9-a25d-bb404f61dbce" />
   </td>
 </tr>
 </table>
@@ -505,6 +507,107 @@
       <img width="100%" alt="image" src="https://github.com/user-attachments/assets/70284644-94f9-43a1-92e7-65d7703db750" />
 
     </td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary>展开查看--科学杂志</summary>
+
+```text
+an editorial magazine page about wolves in north america and how they're more harmless than we think. make it look like a glossy, smooth, well laid out widely distributed science magazine.
+```  
+
+<table>
+<tr>
+  <td>
+    <img width="100%" alt="image" src="https://github.com/user-attachments/assets/187fb278-de7f-4870-b7e7-2c99b40773ad" />
+  </td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary>展开查看--手写字体</summary>
+
+```text
+a photorealistic, taken by phone photo of a handwritten essay in pencil, bold but elegant handwriting, but messy and somewhat uneven, on an 8.5x11 piece of lined paper, about the history of baseball in toronto. make sure there is variance in the writing in a very human way. give it a slight coffee stain on the top right corner。Chinese，兰亭集序
+```  
+
+<table>
+<tr>
+  <td>
+    <img width="100%" alt="image" src="https://github.com/user-attachments/assets/82ce67ae-bbd0-4d76-a674-ce1ce86e020b" />
+  </td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary>展开查看--屏幕截图</summary>
+
+```text
+{
+  "type": "photorealistic_ui_screenshot",
+  "scene": "macOS 桌面环境中的浏览器截图",
+  "style": "超写实、真实拍摄感、自然光、轻微屏幕反光、高清细节",
+  "main_subject": {
+    "window": "浏览器窗口（类似 Safari 或 Chrome）",
+    "content": "ChatGPT 对话界面",
+    "chat": {
+      "user_message": "draw me a dog",
+      "assistant_response": "ASCII 风格的小狗图案，由字符组成，简洁可爱"
+    }
+  },
+  "layout": {
+    "foreground": "ChatGPT 窗口居中，占据主要视觉焦点",
+    "background": "凌乱的 macOS 桌面，多个窗口叠加但失焦"
+  },
+  "background_elements": [
+    "打开的终端窗口（黑色背景，带有代码或命令行）",
+    "多个浏览器窗口标签页",
+    "文件夹窗口（Finder）",
+    "零散的应用窗口（如编辑器、笔记软件）",
+    "桌面图标略显杂乱"
+  ],
+  "visual_details": {
+    "ui_accuracy": "符合 macOS 风格（顶部菜单栏、窗口红黄绿按钮）",
+    "depth_of_field": "前景清晰，背景轻微虚化",
+    "lighting": "柔和自然光，屏幕有轻微反光",
+    "imperfections": "轻微屏幕灰尘、指纹或反射，增强真实感"
+  },
+  "mood": "真实工作场景，略微杂乱但充满开发者氛围",
+  "resolution": "4K",
+  "aspect_ratio": "16:10"
+}
+```  
+
+<table>
+<tr>
+  <td>
+    <img width="100%" alt="image" src="https://github.com/user-attachments/assets/916eeb1a-5327-4612-94b1-2c31ffd15bbd" />
+  </td>
+</tr>
+</table>
+
+</details>
+
+## 示例添加结构
+<details>
+<summary>展开查看--微缩模型</summary>
+
+```text
+
+```  
+
+<table>
+<tr>
+  <td>
+    
+  </td>
 </tr>
 </table>
 

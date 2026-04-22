@@ -156,7 +156,7 @@
 </details>
 
 <details>
-<summary>展开查看--产品爆炸图</summary>
+<summary>展开查看--社交媒体截图</summary>
 
 ```text
 {
@@ -205,7 +205,7 @@
 
 
 <details>
-<summary>展开查看--产品爆炸图</summary>
+<summary>展开查看--网页设计</summary>
 
 ```text
 {
@@ -283,6 +283,232 @@
 
 </details>
 
+
+<details>
+<summary>展开查看--高密度信息图</summary>
+
+```text
+{
+  "type": "editorial_infographic_poster",
+  "topic": "2026 AI信息流转链",
+  "language": "Chinese",
+  "goal": "用更成熟、更现代、更具编辑设计感的方式，解释AI时代信息从源头生产到大众接收、再到反馈训练的完整流转机制",
+  "style": {
+    "overall": "高级现代信息设计，编辑部海报风，理性克制，专业图解感，接近高质量行业报告封面与科技媒体专题视觉，而非梗图或卡通海报",
+    "keywords": [
+      "editorial infographic",
+      "modern information design",
+      "premium tech report aesthetic",
+      "clean data visualization",
+      "Chinese design poster",
+      "strategic diagram",
+      "high-end layout"
+    ],
+    "avoid": [
+      "低幼卡通",
+      "梗图感",
+      "过于拟人化角色",
+      "廉价科技蓝光效",
+      "杂乱流程图",
+      "密集小字海报",
+      "和参考图相同的首尾相连动物隐喻"
+    ]
+  },
+  "canvas": {
+    "aspect_ratio": "16:9",
+    "background": "上半部分暖白/浅灰纸感背景，下半部分深色信息区块，形成清晰的编辑分区",
+    "resolution": "high resolution",
+    "composition": "横向分区式信息图，强栅格系统，留白充足，信息层级清晰"
+  },
+  "title_block": {
+    "main_title": "2026 AI时代的信息流转链",
+    "subtitle": "从知识生产到大众认知的全景图谱",
+    "intro_text": "AI大幅降低了信息的生产与传播门槛，也放大了信息的失真与噪音。理解这条链路，才能更清醒地获取、判断和使用信息。"
+  },
+  "top_structure": {
+    "type": "six-stage horizontal editorial cards",
+    "description": "顶部为6个纵向卡片模块，等距排列，每个模块都使用圆形主图标、阶段编号、标题、说明、典型载体、特征、质量密度与覆盖范围指标",
+    "stages": [
+      {
+        "index": "01",
+        "title": "源头生产",
+        "subtitle": "知识的原点",
+        "icon": "实验室烧瓶 / 论文 / 数据源抽象图标",
+        "typical_carriers": ["论文", "研究报告", "官方数据", "原始资料", "开源社区"],
+        "traits": ["专业门槛高", "信息密度高", "生产速度慢"],
+        "quality_density": "high",
+        "coverage_range": "low",
+        "accent_color": "deep green"
+      },
+      {
+        "index": "02",
+        "title": "AI加工",
+        "subtitle": "压缩与结构化",
+        "icon": "AI芯片 / 神经网络节点",
+        "typical_carriers": ["ChatGPT", "Claude", "Perplexity", "NotebookLM"],
+        "traits": ["提炼总结", "翻译重写", "结构化组织", "引入模型视角"],
+        "quality_density": "medium_high",
+        "coverage_range": "medium",
+        "accent_color": "teal"
+      },
+      {
+        "index": "03",
+        "title": "专业/半专业传播",
+        "subtitle": "二次解读与本地化",
+        "icon": "人物对话 / 专栏 / 内容创作者",
+        "typical_carriers": ["公众号", "知乎", "B站", "播客", "知识博主"],
+        "traits": ["加入个人理解", "更易读", "可传播", "部分丢失上下文"],
+        "quality_density": "medium",
+        "coverage_range": "medium_high",
+        "accent_color": "blue"
+      },
+      {
+        "index": "04",
+        "title": "泛娱乐化分发",
+        "subtitle": "流量放大与情绪化",
+        "icon": "播放按钮 / 推荐流 / 短内容卡片",
+        "typical_carriers": ["抖音", "小红书", "微博", "快手", "信息流推荐"],
+        "traits": ["碎片化", "标题化", "情绪驱动", "强互动", "追求点击"],
+        "quality_density": "medium_low",
+        "coverage_range": "high",
+        "accent_color": "purple"
+      },
+      {
+        "index": "05",
+        "title": "大众接收",
+        "subtitle": "注意力消费",
+        "icon": "人群 / 手机 / 评论气泡",
+        "typical_carriers": ["群聊", "评论区", "转发", "朋友圈", "短评"],
+        "traits": ["被动消费", "只见结论", "脱离来源", "娱乐化认知"],
+        "quality_density": "low",
+        "coverage_range": "very_high",
+        "accent_color": "orange"
+      },
+      {
+        "index": "06",
+        "title": "记忆与再生产",
+        "subtitle": "碎片沉淀与再传播",
+        "icon": "大脑 / 循环箭头 / 认知残影",
+        "typical_carriers": ["个人记忆", "二次创作", "观点输出", "模仿扩散"],
+        "traits": ["进一步简化", "形成二手认知版本", "成为下一轮传播素材"],
+        "quality_density": "very_low",
+        "coverage_range": "max",
+        "accent_color": "red_orange"
+      }
+    ]
+  },
+  "middle_flow": {
+    "type": "dark strategic feedback loop diagram",
+    "description": "中部使用深色横向流程区，展示信息如何在平台机制中被放大、训练、再生成并反向影响上游",
+    "sections": [
+      {
+        "title": "回流来源",
+        "content": ["用户行为数据", "点赞、停留、评论、转发", "群体反馈", "内容再生产"]
+      },
+      {
+        "title": "平台与算法",
+        "content": ["基于反馈优化推荐", "放大高互动内容"]
+      },
+      {
+        "title": "模型训练与优化",
+        "content": ["作为训练数据", "优化模型输出"]
+      },
+      {
+        "title": "更易生成的内容",
+        "content": ["更贴合大众偏好", "更易被传播"]
+      },
+      {
+        "title": "反向影响上游",
+        "content": ["影响研究选题", "影响创作方向", "影响媒体议题设置与公众认知"]
+      }
+    ],
+    "annotations": {
+      "top": "放大：流量倾斜、注意力竞争、失真扩散",
+      "bottom": "削弱：上下文丢失、细节消减、观点极化"
+    }
+  },
+  "bottom_modules": {
+    "left": {
+      "title": "不同层级的价值与风险",
+      "type": "table",
+      "columns": ["层级", "核心价值", "主要风险", "适合谁"],
+      "rows": [
+        ["源头生产", "最可靠的知识", "门槛高、难获取", "研究者、专业从业者"],
+        ["AI加工", "高效理解与结构化", "模型幻觉、偏差", "学习者、工作者"],
+        ["专业传播", "连接复杂与大众", "个人偏见、选择性", "普通学习者"],
+        ["泛娱乐分发", "快速触达与扩圈", "标题党、情绪化、低质", "大众用户"],
+        ["大众接收", "低成本获取信息", "认知浅化、价值观操控", "大多数人"],
+        ["记忆再生产", "形成个人认知版本", "进一步失真、极化", "所有人"]
+      ]
+    },
+    "center": {
+      "title": "如何穿越信息噪音？",
+      "type": "principles",
+      "items": [
+        "尽量回到源头，查看一手资料",
+        "善用AI作为学习助手，而非结论来源",
+        "延长思考时间，建立更多上下文",
+        "多源交叉验证，降低单一来源影响",
+        "建立自己的知识体系，而非只消费信息",
+        "关注长期价值，而非短期刺激"
+      ]
+    },
+    "right": {
+      "title": "核心结论",
+      "type": "quote_panel",
+      "content": [
+        "AI不会自动提升全社会的认知水平，它让信息的生产和扩散成本趋近于零，也让低质量信息具备了工业化生产能力。",
+        "未来最稀缺的能力不是获取信息，而是筛选、判断、理解与内化的能力。"
+      ]
+    }
+  },
+  "data_visuals": {
+    "mini_panel": {
+      "position": "left upper side",
+      "content": [
+        "信息密度：从高到低的彩色标尺",
+        "覆盖范围：从小到大的气泡尺寸对比"
+      ]
+    },
+    "indicators": "每个阶段底部加入信息密度与覆盖范围的可视化点阵或进度条"
+  },
+  "visual_language": {
+    "grid": "严格栅格排版，模块化布局",
+    "cards": "圆角卡片，浅阴影，边框克制",
+    "icons": "统一线性图标或扁平矢量图标，风格一致",
+    "typography": "中文无衬线字体，标题加粗，副标题中黑，正文常规，强调词使用彩色",
+    "color_system": "每个阶段一个识别色，从绿色、蓝绿色、蓝色、紫色、橙色到红橙色，体现从高质量到高扩散的迁移"
+  },
+  "tone": "冷静、专业、清晰、有判断力，但不过度煽动，不使用低俗或过激隐喻",
+  "footer": {
+    "left_note": "信息不是中立的。你的注意力，决定了你将被什么塑造。",
+    "right_note": "2026 · 信息认知实验室"
+  },
+  "negative_prompt": [
+    "cartoon animals",
+    "cute mascot chain",
+    "comic meme style",
+    "childish infographic",
+    "overloaded text blocks",
+    "messy arrows",
+    "3D photorealistic scene",
+    "cheap cyberpunk neon",
+    "poster identical to the user's reference image",
+    "hand-drawn doodle style"
+  ]
+}
+```  
+
+<table>
+<tr>
+    <td>
+      <img width="100%" alt="image" src="https://github.com/user-attachments/assets/70284644-94f9-43a1-92e7-65d7703db750" />
+
+    </td>
+</tr>
+</table>
+
+</details>
 
 ## Star history
 

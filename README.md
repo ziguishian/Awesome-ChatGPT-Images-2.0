@@ -619,7 +619,93 @@ Overall clean white space, balanced composition, sharp focus, HDR high dynamic r
 </details>
 
 
+<details>
+<summary>展开查看--运动品牌海报-摩托车</summary>
 
+```text
+{ "type": "sports_poster", "style": "high-impact commercial advertising, bold typography, cinematic action", "subject": "a motocross rider jumping in mid-air on a dirt bike", "composition": { "camera_angle": "low angle hero shot", "motion": "dynamic diagonal movement, rider leaning forward aggressively", "interaction": "subject breaking through large background text" }, "background": { "color": "solid vibrant red", "text": "GIANT bold white typography reading 'GPT IMAGE 2'", "font_style": "heavy sans-serif, distressed texture, grunge effect" }, "details": { "particles": "mud splashes and dirt flying in the air", "lighting": "high contrast studio lighting with sharp highlights", "texture": "dust, scratches, gritty realism" }, "subject_style": { "outfit": "red motocross suit, black helmet, reflective visor", "bike": "detailed dirt bike with rugged tires" }, "depth": "layered composition, subject overlapping text", "quality": "ultra-detailed, 4K, HDR, sharp focus", "mood": "powerful, energetic, extreme sports", "typography_footer": "PUSH LIMITS. CREATE IMPACT." }
+```  
+
+<table>
+<tr>
+  <td>
+    <img width="100%" alt="image" src="https://github.com/user-attachments/assets/a3aeaf79-985e-444a-8bd3-ae0c79612f05" />
+  </td>
+</tr>
+</table>
+
+</details>
+
+
+<details>
+<summary>展开查看--电影海报（无字版）</summary>
+
+```text
+{
+  "prompt": "cinematic sci-fi movie poster, ultra detailed, a melancholic young woman side profile, wet hair, soft pale skin, subtle futuristic interface markings on her face, double exposure effect blending her face with a vast futuristic cityscape, massive alien megastructure ring in the sky, distant glowing beam of light, hovering spaceships, dystopian futuristic skyline, a lone man standing in the foreground with a long coat facing the city, epic scale, emotional atmosphere, cold blue and gray color palette, volumetric lighting, fog, dust particles, starfield overlay, highly cinematic composition, IMAX style, dramatic lighting, depth of field, ultra realistic, 8k, film grain, masterpiece",
+  
+  "style": "Denis Villeneuve, Blade Runner 2049, Dune, cinematic sci-fi realism",
+  
+  "lighting": "soft diffused light, backlight rim light, volumetric fog, high contrast shadows",
+  
+  "composition": "double exposure, large face dominating upper frame, small human figure centered bottom, leading lines toward light beam",
+  
+  "mood": "lonely, philosophical, futuristic, existential",
+  
+  "camera": "50mm portrait for face + wide angle landscape blend",
+  
+  "quality": "ultra detailed, cinematic, photorealistic, IMAX, HDR",
+  
+  "aspect_ratio": "2:3"
+}
+```  
+
+<table>
+<tr>
+  <td>
+    <img width="100%"  alt="image" src="https://github.com/user-attachments/assets/fe6b60f3-2727-4bff-9c11-c1a49077dd97" />
+
+  </td>
+</tr>
+</table>
+
+</details>
+
+
+<details>
+<summary>展开查看--微缩元素周期表+元素</summary>
+
+```text
+Isometric perspective showcasing a portion of the periodic table in a three-dimensional, stereoscopic form, requiring the text within each cell to be accurate, with each cell paired with an object that matches the corresponding element,  
+each cell strictly aligned and neatly arranged, with an angle of approximately 45° to 60° in an oblique side view, an extreme close-up that almost exclusively focuses on the central few elements, with a very large aperture and a pronounced tilt-shift blur effect.
+```  
+
+<table>
+<tr>
+  <td>
+    <img width="100%" alt="image" src="https://github.com/user-attachments/assets/78a248b6-6046-40a4-9584-1c30f61a5991" />
+  </td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary>展开查看--涂鸦艺术海报</summary>
+
+```text
+{ "prompt": "a cinematic photo of an old European-style apartment building with red brick walls and rooftop details, shot from a low angle looking up into a clear bright blue sky, realistic photography, high detail, natural lighting. In the foreground, a person with blue skin and short hair looking up, wearing a green sweater. On the rooftop, a large pink cat illustrated in a childlike crayon doodle style is lying lazily, with rough hand-drawn outlines and scribble texture. Around the sky, several small yellow birds in the same doodle style are flying, along with a floating red balloon. The illustration elements contrast with the realistic background, mixed media collage style. magazine cover design, bold black typography text 'ROOFTOP CAT' at the top left, minimal subtitle 'a story above the city'. whimsical, dreamy, slightly melancholic mood", "style": "mixed media, photography + crayon doodle illustration, editorial magazine cover", "composition": "low angle perspective, rooftop cat centered upper frame, person looking up from bottom, strong vertical architecture lines", "color_palette": "bright blue sky, warm red bricks, high contrast neon pink, yellow accents, bold flat colors for doodles", "texture": "rough crayon strokes, hand-drawn outlines, grainy illustration overlay", "lighting": "natural daylight, high contrast sky, clean shadows", "mood": "whimsical, urban loneliness, poetic, surreal", "quality": "ultra detailed, 4k, editorial photography, sharp focus" }
+```  
+
+<table>
+<tr>
+  <td>
+    <img width="100%" alt="image" src="https://github.com/user-attachments/assets/f538cc1d-ff43-4424-8b79-178fb24b0241" />
+  </td>
+</tr>
+</table>
+
+</details>
 
 
 

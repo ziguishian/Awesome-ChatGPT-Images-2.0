@@ -80,6 +80,75 @@
 </tr>
 </table>
 
+## 网络来源示例
+> Tips：在新版GPT中，AI 可以先思考再设计，这是多模态的一大进步，你可以尝试将以下图片的内容给到GPT反推提示词，然后生成图像，实测可行。
+
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/9a0ca1bb-178d-4934-bd5d-91a4a8b1aa18" width="100%" /><br/>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/de5b3e21-d92e-49ef-a5ab-7e87aec7fba6" width="100%" /><br/>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/bb576576-9d70-4163-b576-e552c934f11d" width="100%" /><br/>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/433f3df2-820b-410b-ad20-ed9c452fe8df" width="100%" /><br/>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/c6b11940-97ac-4ab3-80f9-f8a7e0c753c0" width="100%" /><br/>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/b115cfdf-2271-494a-ac1f-6c5c29979542" width="100%" /><br/>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/04d98521-d0f6-4aca-a982-d50cfb4953bf" width="100%" /><br/>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/bc43369d-6c43-4146-a6f6-9dee0bb5c33d" width="100%" /><br/>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/2e9a0d90-3f87-4bfb-86bb-0723717c5591" width="100%" /><br/>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/d589e41e-eb44-4e7c-86b7-0b4fb5c9e1aa" width="100%" /><br/>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/a10d98d7-00a6-41fb-96f9-692964e00b07" width="100%" /><br/>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/c6c9d173-21e1-4336-8714-e95ba77d9e59" width="100%" /><br/>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/6115282c-65f7-4ac8-9519-b13826dc9177" width="100%" /><br/>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/8ee54be5-de0b-4652-8d47-697a527699c4" width="100%" /><br/>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/9a709ad1-25ac-4604-be14-30423f5cebef" width="100%" /><br/>
+    </td>
+    <td width="25%" align="center">
+      <img src="https://github.com/user-attachments/assets/15969f49-c211-433d-a728-aab77debf11c" width="100%" /><br/>
+    </td>
+  </tr>
+</table>
+
+
+
+
 ## Prompt 示例案例
 > 相较于之前的模型来说，ChatGPT-Images-2.0 的一大特点是，非常简单的提示词就可以产出很优秀的结果。
 

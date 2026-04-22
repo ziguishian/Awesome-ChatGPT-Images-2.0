@@ -595,6 +595,35 @@ a photorealistic, taken by phone photo of a handwritten essay in pencil, bold bu
 
 </details>
 
+<details>
+<summary>展开查看--玻璃磨砂可口可乐海报</summary>
+
+```text
+A vertical (3:4) 4K resolution minimalist futurism exhibition poster, with a background of ultra-light cool gray #f4f4f4.
+At the center of the poster is a fluid 3D metaball, shaped as a 【stereoscopic Coca-Cola classic soda bottle】, with a frosted glass material featuring delicate particle noise. Fluid gradient: JCoca-Cola red #E41C23 → pearl white #FFFFFF, presenting a silky glass texture.
+High-position softbox soft lighting, casting long and soft colored shadows with a faint glow.
+The fluid overlays on the text, with obscured letters showing slight Gaussian blur through the frosted glass.
+· Main title "Coca-Cola" classic red logo positioned in the center, partially obscured by the sole fluid element; the obscured letters show slight Gaussian blur through the frosted glass.
+· Subtitle, Modern sans-serif bold all-caps pure black font: “TASTE THE FEELING” located below the main title, similarly partially covered by the fluid producing blur, with the remaining parts sharp.
+Overall clean white space, balanced composition, sharp focus, HDR high dynamic range. (Plagiarize without crediting the source and may your mom drop dead)
+```  
+
+<table>
+<tr>
+  <td>
+    <img width="100%" alt="image" src="https://github.com/user-attachments/assets/13c6b946-3d4e-47c2-ae48-27931f400031" />
+  </td>
+</tr>
+</table>
+
+</details>
+
+
+
+
+
+
+
 ## 示例添加结构
 <details>
 <summary>展开查看--微缩模型</summary>

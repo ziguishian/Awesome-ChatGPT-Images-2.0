@@ -90,3 +90,13 @@
 
 </details>
 
+
+## Star history
+
+<p align="center">
+  <a href="https://starchart.cc/ziguishian/Awesome-ChatGPT-Images-2.0">
+    <img src="https://starchart.cc/ziguishian/Awesome-ChatGPT-Images-2.0.svg" alt="Star History">
+  </a>
+</p>
+
+
